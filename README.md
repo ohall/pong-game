@@ -1,6 +1,7 @@
 # Pong Game
 
 A classic Pong game implemented with HTML, CSS, and JavaScript.
+[Play Here](https://ohall.github.io/pong-game/)
 
 ## How to Play
 
